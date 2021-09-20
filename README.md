@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 Made with ❤️ by Everton Tomalok 👋🏽 Hit me up!
 
- [![Linkedin Badge](https://img.shields.io/badge/-Everton_Tomalok-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaalms/)](https://www.linkedin.com/in/rafaalms/) 
+ [![Linkedin Badge](https://img.shields.io/badge/-Everton_Tomalok-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evertontomalok/)](https://www.linkedin.com/in/evertontomalok/) 
 [![Gmail Badge](https://img.shields.io/badge/-evertontomalok123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:everton.tomalok123@gmail.com)](mailto:evertontomalok123@gmail.com)
