@@ -4,6 +4,10 @@
 - 👨‍💻 Sênior Software Engineer @ <a href="https://meliuz.com.br/">Méliuz</a>
 - 📜 Software Engineering MBA from <a href="https://www.anhanguera.com.br/">Anhanguera</a>
 - 👨🏻‍🎓 Technologist. in Program Developer from <a href="https://www.ifsp.edu.br/">IFSP</a>
+- I love to spend time with my family :family: and friends 
+- Addicted in learning new tecnologies :computer_mouse:
+- I really love my job, creating new things using tecnology :minidisc:.
+- I'm trying to improve my entrepeneur skills :office:.
 
 ## :adult: About Me
 
@@ -44,6 +48,15 @@ I follow the philosophy about: "You build it, you deploy it, you maintain it.". 
  - ![AzuereDevops](https://img.shields.io/badge/-AzureDevops-maroon)
  - ![Airflow](https://img.shields.io/badge/-Airflow-darkred)
  
+### Clouds
+
+ - ![AWS](https://img.shields.io/static/v1?label=&message=AWS&color=orange)
+ - ![GCP](https://img.shields.io/static/v1?label=&message=GCP&color=red)
+ - ![Azure](https://img.shields.io/static/v1?label=&message=Azure&color=blue)
+ - ![Heroku](https://img.shields.io/static/v1?label=&message=Heroku&color=royalblue)
+ - ![Github Actions](https://img.shields.io/badge/-Digital_Ocean-dodgerblue)
+ - ![Linode](https://img.shields.io/static/v1?label=&message=Linode&color=green)
+
 ### Frameworks
  - ![FastAPI](https://img.shields.io/badge/-FastAPI-blue)
  - ![Django](https://img.shields.io/badge/-Django-green)
