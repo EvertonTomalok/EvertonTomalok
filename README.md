@@ -1,6 +1,9 @@
 # Hi there 👋
-### My name is Everton, and it's a pleaseure meet you :grinning:.
+### My name is Everton, and it's a pleasure to meet you :grinning:.
 
+- 👨‍💻 Sênior Software Engineer @ <a href="https://meliuz.com.br/">Méliuz</a>
+- 📜 Software Engineering MBA from <a href="https://www.anhanguera.com.br/">Anhanguera</a>
+- 👨🏻‍🎓 Technologist. in Program Developer from <a href="https://www.ifsp.edu.br/">IFSP</a>
 
 ## :adult: About Me
 
@@ -12,23 +15,62 @@ I have big expertise building WebCrawlers, REST APIs, Backend services, Scripts,
 
 I follow the philosophy about: "You build it, you deploy it, you maintain it.". I'm very focused on problem-solving.
 
-## I'm working with
+## :desktop_computer: I'm working with
 
- - ![JavaScript](https://img.shields.io/static/v1?label=&message=Python&color=yellow)
+### Program Languages and other similars
+ - ![Python](https://img.shields.io/static/v1?label=&message=Python&color=yellow)
  - ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=orange)
- - ![MongoDB](https://img.shields.io/static/v1?label=&message=MongoDB&color=green)
- - ![PostgreSQL](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=blue)
+ - ![NodeJS](https://img.shields.io/static/v1?label=&message=NodeJS&color=brightgreen)
+ - ![Java](https://img.shields.io/static/v1?label=&message=Java&color=red)
  - ![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=red) 
  - ![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=blue)
- - ![NodeJS](https://img.shields.io/static/v1?label=&message=NodeJS&color=brightgreen)
+ 
+### Databases
+ - ![MongoDB](https://img.shields.io/static/v1?label=&message=MongoDB&color=green)
+ - ![PostgreSQL](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=blue)
+ - ![MySql](https://img.shields.io/static/v1?label=&message=MySQL&color=orange)
+ - ![Redis](https://img.shields.io/static/v1?label=&message=Redis&color=red)
+ - ![OracleDB](https://img.shields.io/static/v1?label=&message=OracleDB&color=red)
+
+### DevOps
+ - ![Docker](https://img.shields.io/badge/-Docker-blue)
+ - ![Kubernetes](https://img.shields.io/badge/-Kubernetes-green)
+ - ![Helm](https://img.shields.io/badge/-Helm-green)
+ - ![Serverless](https://img.shields.io/badge/-Serverless-yellow)
+ - ![Github Actions](https://img.shields.io/badge/-Github_Actions-orange)
+ - ![GitLab CI](https://img.shields.io/badge/-GitLab_CI-gray)
+ - ![Circle CI](https://img.shields.io/badge/-CircleCI-green)
+ - ![Jenkins](https://img.shields.io/badge/-Jenkins-red)
+ - ![AzuereDevops](https://img.shields.io/badge/-AzureDevops-maroon)
+ - ![Airflow](https://img.shields.io/badge/-Airflow-darkred)
+ 
+### Frameworks
+ - ![FastAPI](https://img.shields.io/badge/-FastAPI-blue)
+ - ![Django](https://img.shields.io/badge/-Django-green)
+ - ![Flask](https://img.shields.io/badge/-Flask-yellow)
+ - ![gRPC](https://img.shields.io/badge/-gRPC-red)
+ - ![PonyORM](https://img.shields.io/badge/-PonyORM-darkred)
+ - ![Orator](https://img.shields.io/badge/-Orator-gold)
+ - ![TortoiseORM](https://img.shields.io/badge/-TortoiseORM-yellowgreen)
+ - ![SpringBoot](https://img.shields.io/badge/-SpringBoot-blue)
+ - ![Hibernate](https://img.shields.io/badge/-Hibernate-blue)
  - ![React](https://img.shields.io/badge/-React-ff69b4)
  - ![Koa](https://img.shields.io/badge/-Koa-blueviolet)
  - ![Express](https://img.shields.io/badge/-Express-yellow)
+ - ![NextJS](https://img.shields.io/badge/-NextJS-blue)
  - ![TypeORM](https://img.shields.io/badge/-TypeORM%20-red)
+ - ![Sequelize](https://img.shields.io/badge/-Sequelize%20-gray)
+ - ![JQuery](https://img.shields.io/badge/-JQuery-blue)
 
-## I'm learning
-
- - ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+## :open_book: I'm learning
+ - ![GoLang](https://img.shields.io/badge/-GoLang-blue)
+ - ![Terraform](https://img.shields.io/badge/-Terraform-green)
+ - ![Pulumi](https://img.shields.io/badge/-Pulumi-coral)
+ - ![Istio](https://img.shields.io/badge/-Istio-green)
+ - ![TypeScript](https://img.shields.io/badge/-TypeScript-red)
+ - ![NestJS](https://img.shields.io/badge/-NestJS-green)
+ - ![VueJS](https://img.shields.io/badge/-NestJS-darkred)
+ - ![GraphQL](https://img.shields.io/badge/-GraphQL-yellowgreen)
 
 Made with ❤️ by Everton Tomalok 👋🏽 Hit me up!
 
