@@ -21,19 +21,17 @@ I follow the philosophy about: "You build it, you deploy it, you maintain it.". 
 
 ## :desktop_computer: I'm working with
 
-### Program Languages and other similars
+### Program Languages
  - ![Python](https://img.shields.io/static/v1?label=&message=Python&color=yellow)
  - ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=orange)
  - ![NodeJS](https://img.shields.io/static/v1?label=&message=NodeJS&color=brightgreen)
  - ![Java](https://img.shields.io/static/v1?label=&message=Java&color=red)
- - ![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=red) 
- - ![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=blue)
  
 ### Databases
  - ![MongoDB](https://img.shields.io/static/v1?label=&message=MongoDB&color=green)
  - ![PostgreSQL](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=blue)
  - ![MySql](https://img.shields.io/static/v1?label=&message=MySQL&color=orange)
- - ![Redis](https://img.shields.io/static/v1?label=&message=Redis&color=red)
+ - ![Redis](https://img.shields.io/static/v1?label=&message=Redis&color=khaki)
  - ![OracleDB](https://img.shields.io/static/v1?label=&message=OracleDB&color=red)
 
 ### DevOps
@@ -46,7 +44,7 @@ I follow the philosophy about: "You build it, you deploy it, you maintain it.". 
  - ![Circle CI](https://img.shields.io/badge/-CircleCI-green)
  - ![Jenkins](https://img.shields.io/badge/-Jenkins-red)
  - ![AzuereDevops](https://img.shields.io/badge/-AzureDevops-maroon)
- - ![Airflow](https://img.shields.io/badge/-Airflow-darkred)
+ - ![Airflow](https://img.shields.io/badge/-Airflow-khaki)
  
 ### Clouds
 
@@ -62,8 +60,9 @@ I follow the philosophy about: "You build it, you deploy it, you maintain it.". 
  - ![Django](https://img.shields.io/badge/-Django-green)
  - ![Flask](https://img.shields.io/badge/-Flask-yellow)
  - ![gRPC](https://img.shields.io/badge/-gRPC-red)
+ - ![Scrapy](https://img.shields.io/badge/-Scrapy-khaki)
  - ![PonyORM](https://img.shields.io/badge/-PonyORM-darkred)
- - ![Orator](https://img.shields.io/badge/-Orator-gold)
+ - ![OratorORM](https://img.shields.io/badge/-OratorORM-gold)
  - ![TortoiseORM](https://img.shields.io/badge/-TortoiseORM-yellowgreen)
  - ![SpringBoot](https://img.shields.io/badge/-SpringBoot-blue)
  - ![Hibernate](https://img.shields.io/badge/-Hibernate-blue)
@@ -74,6 +73,11 @@ I follow the philosophy about: "You build it, you deploy it, you maintain it.". 
  - ![TypeORM](https://img.shields.io/badge/-TypeORM%20-red)
  - ![Sequelize](https://img.shields.io/badge/-Sequelize%20-gray)
  - ![JQuery](https://img.shields.io/badge/-JQuery-blue)
+
+### Others
+
+ - ![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=red) 
+ - ![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=blue)
 
 ## :open_book: I'm learning
  - ![GoLang](https://img.shields.io/badge/-GoLang-blue)
