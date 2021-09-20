@@ -82,7 +82,7 @@ I follow the philosophy about: "You build it, you deploy it, you maintain it.". 
  - ![Istio](https://img.shields.io/badge/-Istio-green)
  - ![TypeScript](https://img.shields.io/badge/-TypeScript-red)
  - ![NestJS](https://img.shields.io/badge/-NestJS-green)
- - ![VueJS](https://img.shields.io/badge/-NestJS-darkred)
+ - ![VueJS](https://img.shields.io/badge/-VueJS-darkred)
  - ![GraphQL](https://img.shields.io/badge/-GraphQL-yellowgreen)
 
 Made with ❤️ by Everton Tomalok 👋🏽 Hit me up!
