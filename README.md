@@ -24,8 +24,7 @@ I follow the philosophy about: "You build it, you deploy it, you maintain it.". 
   - https://github.com/EvertonTomalok/bossa-box-backend-python
   - https://github.com/EvertonTomalok/challenge
 - NodeJs
-  - https://github.com/EvertonTomalok/backend-node-application/blob/main/src/utils/dropAllTables.js 
-
+  - https://github.com/EvertonTomalok/backend-node-application
 ## :desktop_computer: I'm working with
 
 ### Program Languages
