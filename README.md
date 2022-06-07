@@ -28,11 +28,17 @@ I follow the philosophy about: "You build it, you deploy it, you maintain it.". 
  - ![NodeJS](https://img.shields.io/static/v1?label=&message=NodeJS&color=brightgreen)
  - ![Java](https://img.shields.io/static/v1?label=&message=Java&color=red)
  
+### Event Driven Architecture
+ - ![Kafka](https://img.shields.io/static/v1?label=&message=Kafka&color=Orange)
+ - ![Redis](https://img.shields.io/static/v1?label=&message=Redis&color=khaki)
+ - ![PUB/SUB](https://img.shields.io/static/v1?label=&message=PubSub&color=red)
+ - ![RabbitMQ](https://img.shields.io/static/v1?label=&message=RabbitMQ&color=green)
+ - ![NATS](https://img.shields.io/static/v1?label=&message=NATS&color=blue)
+
 ### Databases
  - ![MongoDB](https://img.shields.io/static/v1?label=&message=MongoDB&color=green)
  - ![PostgreSQL](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=blue)
  - ![MySql](https://img.shields.io/static/v1?label=&message=MySQL&color=orange)
- - ![Redis](https://img.shields.io/static/v1?label=&message=Redis&color=khaki)
  - ![OracleDB](https://img.shields.io/static/v1?label=&message=OracleDB&color=red)
 
 ### DevOps
@@ -60,7 +66,9 @@ I follow the philosophy about: "You build it, you deploy it, you maintain it.". 
  - ![FastAPI](https://img.shields.io/badge/-FastAPI-blue)
  - ![Django](https://img.shields.io/badge/-Django-green)
  - ![Flask](https://img.shields.io/badge/-Flask-yellow)
- - ![gRPC](https://img.shields.io/badge/-gRPC-red)
+ - ![Celery](https://img.shields.io/badge/-Celery-green)
+ - ![Faust](https://img.shields.io/badge/-Flask-red)
+ - ![gRPC](https://img.shields.io/badge/-gRPC-green)
  - ![Scrapy](https://img.shields.io/badge/-Scrapy-khaki)
  - ![PonyORM](https://img.shields.io/badge/-PonyORM-darkred)
  - ![OratorORM](https://img.shields.io/badge/-OratorORM-gold)
