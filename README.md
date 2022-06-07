@@ -23,7 +23,7 @@ I follow the philosophy about: "You build it, you deploy it, you maintain it.". 
 
 ### Program Languages
  - ![Python](https://img.shields.io/static/v1?label=&message=Python&color=yellow)
- - ![Go](https://img.shields.io/static/v1?label=&message=JavaScript&color=blue)
+ - ![Go](https://img.shields.io/static/v1?label=&message=Go&color=blue)
  - ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=orange)
  - ![NodeJS](https://img.shields.io/static/v1?label=&message=NodeJS&color=brightgreen)
  - ![Java](https://img.shields.io/static/v1?label=&message=Java&color=red)
