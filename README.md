@@ -1,7 +1,7 @@
 # Hi there 👋
 ### My name is Everton, and it's a pleasure to meet you :grinning:.
 
-- 👨‍💻 Sênior Software Engineer @ <a href="https://meliuz.com.br/">Méliuz</a>
+- 👨‍💻 Sênior Software Engineer @ <a href="https://mercadobitcoin.com.br/">Mercado Bitcoin</a>
 - 📜 Software Engineering MBA from <a href="https://www.anhanguera.com.br/">Anhanguera</a>
 - 👨🏻‍🎓 Technologist. in Program Developer from <a href="https://www.ifsp.edu.br/">IFSP</a>
 - I love to spend time with my family :family: and friends 
@@ -23,6 +23,7 @@ I follow the philosophy about: "You build it, you deploy it, you maintain it.". 
 
 ### Program Languages
  - ![Python](https://img.shields.io/static/v1?label=&message=Python&color=yellow)
+ - ![Go](https://img.shields.io/static/v1?label=&message=JavaScript&color=blue)
  - ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=orange)
  - ![NodeJS](https://img.shields.io/static/v1?label=&message=NodeJS&color=brightgreen)
  - ![Java](https://img.shields.io/static/v1?label=&message=Java&color=red)
