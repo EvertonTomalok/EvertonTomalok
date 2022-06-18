@@ -20,14 +20,16 @@ I have big expertise building WebCrawlers, REST APIs, Backend services, Scripts,
 I follow the philosophy about: "You build it, you deploy it, you maintain it.". I'm very focused on problem-solving.
 
 ## Portfolio Repositories:
+- Go
+  - https://github.com/EvertonTomalok/distributed-system-go [WIP]
 - Python
   - https://github.com/EvertonTomalok/bossa-box-backend-python
   - https://github.com/EvertonTomalok/challenge
-  - https://github.com/EvertonTomalok/corretorortografico (Machine Learning / NLP)
-- Go
-  - https://github.com/EvertonTomalok/distributed-system-go [WIP]
 - NodeJs
   - https://github.com/EvertonTomalok/backend-node-application
+- Others
+  - https://github.com/EvertonTomalok/corretorortografico (Machine Learning / NLP)
+  - 
 ## :desktop_computer: I'm working with
 
 ### Program Languages
