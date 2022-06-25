@@ -29,7 +29,7 @@ I follow the philosophy about: "You build it, you deploy it, you maintain it.". 
   - https://github.com/EvertonTomalok/backend-node-application
 - Others
   - https://github.com/EvertonTomalok/corretorortografico (Machine Learning / NLP)
-  - 
+
 ## :desktop_computer: I'm working with
 
 ### Program Languages
