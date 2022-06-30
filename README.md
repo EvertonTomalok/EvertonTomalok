@@ -13,7 +13,7 @@
 
 I've been working as a Software Engineer since 2012. In my professional journey, I already worked as Data Scientist too.
 
-During this time, I've worked in different teams, and Companies, which gave me experience working in distributed teams, and a big experience dealing with work pressure and teamwork.
+During this time, I've worked in different teams, and Companies, which gave me experience working in distributed teams, and a big expertise dealing with work pressure and teamwork.
 
 I have big expertise building WebCrawlers, REST APIs, Backend services, Scripts, Microservices, and other Architectures in Python, Java, and NodeJs, using Clouds like GCP, AWS, Heroku, and Linode.
 
