@@ -11,7 +11,7 @@
 
 ## 👱‍♂️ About Me
 
-I've been working as a Software Engineer since 2012. In my professional journey, I've already worked as Data Scientist too.
+I've been working as a Software Engineer since 2012. In my professional journey, I already worked as Data Scientist too.
 
 During this time, I've worked in different teams, and Companies, which gave me experience working in distributed teams, and a big experience dealing with work pressure and teamwork.
 
