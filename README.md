@@ -9,7 +9,7 @@
 - I really love my job, creating new things using tecnology :minidisc:.
 - I'm trying to improve my entrepeneur skills :office:.
 
-## :adult: About Me
+## 👱‍♂️ About Me
 
 I've been working as a Software Engineer since 2012. In my professional journey, I've already worked as Data Scientist too.
 
