@@ -30,7 +30,14 @@ I follow the philosophy about: "You build it, you deploy it, you maintain it.". 
 - NodeJs
   - https://github.com/EvertonTomalok/backend-node-application
 - Others
+  - 
+  - https://github.com/EvertonTomalok/magazine (Magazine Luiza Crawler)
   - https://github.com/EvertonTomalok/corretorortografico (Machine Learning / NLP)
+  - https://github.com/EvertonTomalok/reader_rss (news rss reader cli)
+  - https://github.com/EvertonTomalok/crawler-adorocinema (Adoro Cinema Crawler)
+  - https://github.com/EvertonTomalok/emailtoolspython (email tools)
+  - https://github.com/EvertonTomalok/crawling-smogon (Pokemon Smogan Crawler)
+  - https://github.com/EvertonTomalok/preprocessingtext (Preprocessing text)
 
 ## :desktop_computer: I'm working with
 
