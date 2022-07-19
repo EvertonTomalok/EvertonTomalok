@@ -21,7 +21,8 @@ I follow the philosophy about: "You build it, you deploy it, you maintain it.". 
 
 ## Portfolio Repositories:
 - Go
-  - https://github.com/EvertonTomalok/distributed-system-go [WIP]
+  - https://github.com/EvertonTomalok/distributed-system-go
+  - https://github.com/EvertonTomalok/text-game
 - Python
   - https://github.com/EvertonTomalok/google-scrapper
   - https://github.com/EvertonTomalok/bossa-box-backend-python
