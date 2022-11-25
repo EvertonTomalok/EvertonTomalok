@@ -1,7 +1,7 @@
 # Hi there 👋
 ### My name is Everton, and it's a pleasure to meet you :grinning:.
 
-- 👨‍💻 Sênior Software Engineer @ <a href="https://mercadobitcoin.com.br/">Mercado Bitcoin</a>
+- 👨‍💻 Sênior Software Engineer @ <a href="https://www.galleysolutions.com/">Galley Solllutions</a>
 - 📜 Software Engineering MBA from <a href="https://www.anhanguera.com.br/">Anhanguera</a>
 - 👨🏻‍🎓 Technologist. in Program Developer from <a href="https://www.ifsp.edu.br/">IFSP</a>
 - I love to spend time with my family :family: and friends 
