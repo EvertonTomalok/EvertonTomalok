@@ -21,8 +21,9 @@ I follow the philosophy about: "You build it, you deploy it, you maintain it.". 
 
 ## Portfolio Repositories:
 - Go
-  - https://github.com/EvertonTomalok/distributed-system-go
+  - https://github.com/EvertonTomalok/distributed-system-go (saga architecture example working with a total distributed project)
   - https://github.com/EvertonTomalok/text-game
+  - https://github.com/EvertonTomalok/medical-market-place (full tested project)
 - Python
   - https://github.com/EvertonTomalok/google-scrapper
   - https://github.com/EvertonTomalok/bossa-box-backend-python
