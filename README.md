@@ -1,29 +1,36 @@
 # Hi there 👋
 ### My name is Everton, and it's a pleasure to meet you :grinning:.
 
-- 👨‍💻 Sênior Software Engineer @ <a href="https://www.galleysolutions.com/">Galley Solllutions</a>
+- 👨‍💻 Sênior Software Engineer @ <a href="https://www.coinbase.com/">Coinbase</a>
 - 📜 Software Engineering MBA from <a href="https://www.anhanguera.com.br/">Anhanguera</a>
 - 👨🏻‍🎓 Technologist. in Program Developer from <a href="https://www.ifsp.edu.br/">IFSP</a>
 - I love to spend time with my family :family: and friends 
-- Addicted in learning new tecnologies :computer_mouse:
-- I really love my job, creating new things using tecnology :minidisc:.
-- I'm trying to improve my entrepeneur skills :office:.
+- Addicted to learning new technologies :computer_mouse:
+- I love my job, creating new things using technology :minidisc:
+- I'm trying to improve my entrepreneurial skills :office:
 
 ## 👱‍♂️ About Me
 
-I've been working as a Software Engineer since 2012. In my professional journey, I already worked as Data Scientist too.
+With over a decade of experience in the software industry, I have honed my skills as both a Software Engineer and a Data Scientist. Throughout my career, I have contributed to various projects across different teams and companies, gaining extensive experience in working with distributed teams and excelling under work pressure while fostering effective teamwork.
 
-During this time, I've worked in different teams, and Companies, which gave me experience working in distributed teams, and a big expertise dealing with work pressure and teamwork.
+My technical expertise includes:
 
-I have big expertise building WebCrawlers, REST APIs, Backend services, Scripts, Microservices, and other Architectures in Python, Java, and NodeJs, using Clouds like GCP, AWS, Heroku, and Linode.
+- Programming Languages: GoLang, Python, Node.js/Typescript (Advanced), and I also worked with Ruby and PHP;
+- Development and Architecture: Building Web Crawlers, REST APIs, Backend Services, Scripts, Microservices;
+- Cloud Platforms: Google Cloud Platform (GCP), Amazon Web Services (AWS), Heroku, Linode and others;
+- CI-CD: GitHub Actions, CircleCI, Jenkins, and others;
+- Infrastructure: Serverless, Terraform, AWS stack;
+- Observability: DataDog, Grafana + Prometheus, and others;
+- Stream: Kafka, RabbitMQ, SNS, Redis, NATS;
+- Expertise in front-end: react, react native, and a bit of angular and vue.js (front-end is not my focus, but I know how to handle problems, and when necessary change/improve front end);
 
-I follow the philosophy about: "You build it, you deploy it, you maintain it.". I'm very focused on problem-solving.
+I am a strong proponent of the philosophy: "You build it, you deploy it, you maintain it," which underscores my commitment to end-to-end project ownership and responsibility. My focus is consistently on problem-solving, ensuring robust and scalable solutions.
 
 ## Portfolio Repositories:
 - Go
   - https://github.com/EvertonTomalok/distributed-system-go (saga architecture example working with a total distributed project)
   - https://github.com/EvertonTomalok/text-game
-  - https://github.com/EvertonTomalok/medical-market-place (full tested project)
+  - https://github.com/EvertonTomalok/medical-market-place (fully tested project)
 - Python
   - https://github.com/EvertonTomalok/google-scrapper
   - https://github.com/EvertonTomalok/bossa-box-backend-python
