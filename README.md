@@ -19,7 +19,7 @@ My technical expertise includes:
 - Development and Architecture: Building Web Crawlers, REST APIs, Backend Services, Scripts, Microservices;
 - Cloud Platforms: Google Cloud Platform (GCP), Amazon Web Services (AWS), Heroku, Linode and others;
 - CI-CD: GitHub Actions, CircleCI, Jenkins, and others;
-- Infrastructure: Serverless, Terraform, AWS stack;
+- Infrastructure: Serverless, Terraform, Kubernetes, Docker, linux;
 - Observability: DataDog, Grafana + Prometheus, and others;
 - Stream: Kafka, RabbitMQ, SNS, Redis, NATS;
 - Expertise in front-end: react, react native, and a bit of angular and vue.js (front-end is not my focus, but I know how to handle problems, and when necessary change/improve front end);
