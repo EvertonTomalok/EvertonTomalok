@@ -4,10 +4,10 @@
 - 👨‍💻 Sênior Software Engineer @ <a href="https://www.coinbase.com/">Coinbase</a>
 - 📜 Software Engineering MBA from <a href="https://www.anhanguera.com.br/">Anhanguera</a>
 - 👨🏻‍🎓 Technologist. in Program Developer from <a href="https://www.ifsp.edu.br/">IFSP</a>
-- I love to spend time with my family :family: and friends 
-- Addicted to learning new technologies :computer_mouse:
-- I love my job, creating new things using technology :minidisc:
-- I'm trying to improve my entrepreneurial skills :office:
+- :family: I love to spend time with my family and friends 
+- :computer_mouse: Addicted to learning new technologies
+- :minidisc: I love my job, creating new things using technology
+- :office: I'm trying to improve my entrepreneurial skills
 
 ## 👱‍♂️ About Me
 
