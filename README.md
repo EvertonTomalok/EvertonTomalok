@@ -72,6 +72,7 @@ I am a strong proponent of the philosophy: "You build it, you deploy it, you mai
 ### DevOps
  - ![Docker](https://img.shields.io/badge/-Docker-blue)
  - ![Kubernetes](https://img.shields.io/badge/-Kubernetes-green)
+ - ![Terraform](https://img.shields.io/badge/-Terraform-green)
  - ![Helm](https://img.shields.io/badge/-Helm-green)
  - ![Serverless](https://img.shields.io/badge/-Serverless-yellow)
  - ![Github Actions](https://img.shields.io/badge/-Github_Actions-orange)
@@ -117,8 +118,7 @@ I am a strong proponent of the philosophy: "You build it, you deploy it, you mai
  - ![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=blue)
 
 ## :open_book: I'm learning
- - ![GoLang](https://img.shields.io/badge/-GoLang-blue)
- - ![Terraform](https://img.shields.io/badge/-Terraform-green)
+ - ![Rust](https://img.shields.io/badge/-Rust-blue)
  - ![Pulumi](https://img.shields.io/badge/-Pulumi-coral)
  - ![Istio](https://img.shields.io/badge/-Istio-green)
  - ![TypeScript](https://img.shields.io/badge/-TypeScript-red)
