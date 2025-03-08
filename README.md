@@ -11,7 +11,7 @@
 
 ## 👱‍♂️ About Me
 
-With over a decade of experience in the software industry, I have honed my skills as both a Software Engineer and a Data Scientist. Throughout my career, I have contributed to various projects across different teams and companies, gaining extensive experience in working with distributed teams and excelling under work pressure while fostering effective teamwork.
+With more than a decade of experience in the software industry, I have honed my skills as both a Software Engineer and a Data Scientist. Throughout my career, I have contributed to various projects across different teams and companies, gaining extensive experience in working with distributed teams and excelling under work pressure while fostering effective teamwork.
 
 My technical expertise includes:
 
