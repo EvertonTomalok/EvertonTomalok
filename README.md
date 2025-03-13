@@ -15,14 +15,15 @@ With more than a decade of experience in the software industry, I have honed my 
 
 My technical expertise includes:
 
-- Programming Languages: GoLang, Python, Node.js/Typescript (Advanced), and I also worked with Ruby and PHP;
-- Development and Architecture: Building Web Crawlers, REST APIs, Backend Services, Scripts, Microservices;
-- Cloud Platforms: Google Cloud Platform (GCP), Amazon Web Services (AWS), Heroku, Linode and others;
-- CI-CD: GitHub Actions, CircleCI, Jenkins, and others;
-- Infrastructure: Serverless, Terraform, Kubernetes, Docker, linux;
-- Observability: DataDog, Grafana + Prometheus, and others;
-- Stream: Kafka, RabbitMQ, SNS, Redis, NATS;
-- Expertise in front-end: react, react native, and a bit of angular and vue.js (front-end is not my focus, but I know how to handle problems, and when necessary change/improve front end);
+- Programming Languages: Golang (Expert) and Python (Expert), Java (Advanced), Node.js/JavaScript ES6 (Advanced), TypeScript (Intermediate), PHP (Intermediate) and Ruby (Intermediate)
+- Communication protocols: gRPC, REST, GraphQL, WebSockets
+- Messaging Queues: Kafka, RabbitMQ, SQS/SNS, Google Pub/Sub
+- Databases: MongoDB, PostgreSQL, ElasticSearch, MySQL, Cassandra and DynamoDB
+- Caching & Performance: Redis and MemDB
+- Cloud & DevOps: AWS, GCP, Kubernetes, Docker, GitHub, GitHub Actions, ArgoCD, Jenkins, CircleCI, etc.
+- Security: JWT, CORS, bcrypt, hashing techniques
+- Frontend Enthusiast: React.js, Angular, HTML, CSS
+- Distributed Tracing / Observability: DataDog, OpenTelemetry, etc.
 
 I am a strong proponent of the philosophy: "You build it, you deploy it, you maintain it," which underscores my commitment to end-to-end project ownership and responsibility. My focus is consistently on problem-solving, ensuring robust and scalable solutions.
 
