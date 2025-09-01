@@ -29,6 +29,7 @@ I am a strong proponent of the philosophy: "You build it, you deploy it, you mai
 
 ## Portfolio Repositories:
 - Go
+  - https://github.com/EvertonTomalok/blockchain_simulator (blockchain simulator - concurrent golang producer and consumer of transactions) 
   - https://github.com/EvertonTomalok/distributed-system-go (saga architecture example working with a total distributed project)
   - https://github.com/EvertonTomalok/text-game
   - https://github.com/EvertonTomalok/medical-market-place (fully tested project)
