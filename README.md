@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Everton Tomalok
 
-### Staff Software Engineer @ [Hubla](https://hub.la/) | Cloud Architecture & Distributed Systems Expert
+### Staff Software Engineer | Cloud Architecture & Distributed Systems Expert
 
 ---
 
