@@ -108,6 +108,7 @@ With over a decade of experience in the software industry, I specialize in build
 - **[Text Game](https://github.com/EvertonTomalok/text-game)** - Interactive console game
 
 ### Python
+- **[AI Interviewer](https://github.com/EvertonTomalok/the-interviewer)** - A simple implementation of using AI in an Interviewer Application
 - **[Google Scraper](https://github.com/EvertonTomalok/google-scrapper)** - Advanced web scraping tool
 - **[Bossa Box Backend](https://github.com/EvertonTomalok/bossa-box-backend-python)** - RESTful API implementation
 - **[ML/NLP - Spell Checker](https://github.com/EvertonTomalok/corretorortografico)** - Machine Learning text processing
